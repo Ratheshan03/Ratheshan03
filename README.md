@@ -1,8 +1,8 @@
 <h1 align="center">Hi , I'm Ratheshan Sathiyamoorthy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h2>✨ Tech stacks currently using: <h2>
+<h4>✨ Tech stacks currently using: <h4>
   </hr>
-<code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
+<a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a>
 <code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></a></code>
 <code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
@@ -14,7 +14,7 @@
 <code><a href="https://www.json.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></a></code>
 <br>
 
-<h2>🌱 Looking forward to learn:<h2>
+<h4>🌱 Looking forward to learn:<h4>
   </hr>
 <code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
@@ -29,7 +29,7 @@
 <details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
+  <h4>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </h4>
 </summary>
 <br>
 
@@ -42,9 +42,8 @@
   </a>
 </p>
 </details>
-<br>
 
-<h2>Connect With Me<h2>
+<h4>Connect With Me<h4>
   </hr>
   <a href="https://www.linkedin.com/in/ratheshan-sathiyamoorthy-3aa2891b9/">
    <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
@@ -58,4 +57,3 @@
   <a href="https://www.instagram.com/ratheshan_03/">
     <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
-<br>
