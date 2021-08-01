@@ -3,30 +3,27 @@
   <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Software+Developer;Data+Science%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
-
 <p align="center">
   <em>
-    This is ME, Akash chowrasia, a <b>final year</b> undergraduate from <a href="https://www.iit.ac.lk/"> <b>Informatics Insitute of Technology</b>,Colombo Sri Lanka</a>. <br>
-    An aspiring <b>Full-Stack Software Developer</b>&nbsp; <b>Competitive Programming</b>&nbsp; and <b>Artificial Intelligence Enthusiast.</b> 
+    This is ME, Ratheshan Sathiyamoorthy, a <b>Second year</b> undergraduate from <a href="https://www.iit.ac.lk/"> <b>Informatics Insitute of Technology</b>,Colombo Sri Lanka</a>. <br>
+    An aspiring <b>Full-Stack Software Developer</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b>Artificial Intelligence Enthusiast.</b> 
   <br>
   <b><i>Work Hard and Trust the Process</i></b>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ratheshan03&label=Profile%20views&color=0e75b6&style=flat" alt="Ratheshan03" /> </p>
-
-<h3>About me🧑:</h3>
+<h3>Little facts about me🧑:</h3>
 
 - 🧞 Computer Science undergraduate and a Tech enthusiast.
 - 🔭 I’m currently working on Fullstack Web Development & Android Development.
 - 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
 - 🤔 New goal is to contribute more on Open source projects.
-- ⚡ Fun fact: I love Sports.
+- ⚡ Fun fact: I love Sports, especially cricket.
 
 <br/>
 
 ---
 
-<details open="">
+<details>
 <summary>
   ✨ Tech stacks currently using:
 </summary>
@@ -44,7 +41,7 @@
 </details>
 <br>
 
-<details open="">
+<details>
 <summary>
   🌱 Looking forward to learn:<br>
 </summary>
@@ -61,7 +58,7 @@
 
 ---
 
-<details>
+<details open="">
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
  GitH𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 :
@@ -96,5 +93,4 @@
   </a>
 
   <p align="center" > Created with 🖤 by <a href="https://github.com/Ratheshan03">Ratheshan03</a></p>
-  
-  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ratheshan03&label=Profile%20views&color=0e75b6&style=flat" alt="Ratheshan03" /> </p>
