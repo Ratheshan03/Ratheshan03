@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ratheshan Sathiyamoorthy</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Software+Developer;Data+Science%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Software+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
     This is ME, Ratheshan Sathiyamoorthy, a <b>Second year</b> Computer Science undergraduate from <a href="https://www.iit.ac.lk/"> <b>Informatics Insitute of Technology</b>, Sri Lanka</a>.
     An aspiring <b>Full-Stack Software Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
   <br>
-  <b><i>"Work Hard and Trust the Process"</i></b>
+  <b><i>"---Work Hard and Trust the Process---"</i></b>
 </p>
 
 <h3>Little facts about me🧑 </h3>
@@ -18,8 +18,7 @@
 - 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
 - 💡 My new goal is to contribute more on Open source projects.
 - ⚡ Fun fact: I love Sports, especially cricket.
-
-<br/>
+<br>
 
 ---
 
@@ -27,7 +26,7 @@
 <summary>
   ✨ Tech stacks currently using:
 </summary>
-   <br/>
+   <br>
 <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
 <code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></a></code>
@@ -45,7 +44,7 @@
 <summary>
   🌱 Looking forward to learn:
 </summary>
-   <br/>
+   <br>
 <code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
 <code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
@@ -94,7 +93,7 @@
    <a href="https://github.com/Ratheshan03">
     <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
   </a>
-  </hr>
+  <br>
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ratheshan03&label=Profile%20views&color=0e75b6&style=flat" alt="Ratheshan03" /> </p>
 <p align="right" > Created with 🖤 by <a href="https://github.com/Ratheshan03">Ratheshan03</a></p>
