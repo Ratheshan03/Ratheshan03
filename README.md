@@ -92,7 +92,7 @@
     <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
   </a>
    <a href="https://github.com/Ratheshan03">
-    <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" />
+    <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>
   
