@@ -58,11 +58,10 @@
 ---
 
 <details open="">
-<summary
+<summary>
  📔 GitHub Stats:
 </summary>
 <br>
-
 <p align="center">
   <a href="https://github.com/Ratheshan03">
     <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=Ratheshan03&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
@@ -89,8 +88,11 @@
   <a href="https://www.instagram.com/ratheshan_03/">
     <img align="left" alt="Ratheshan Sathiyamoorthy | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
+   <a href="https://www.facebook.com/profile.php?id=100003874786181">
+    <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+  </a>
    <a href="https://github.com/Ratheshan03">
-    <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
+    <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://upload.vectorlogo.zone/logos/github/images/47bfd2d4-712f-4dee-9315-f99c611b7598.svg" />
   </a>
   <br>
   
