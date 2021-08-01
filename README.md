@@ -1,7 +1,24 @@
 <h1 align="center">Hi , I'm Ratheshan Sathiyamoorthy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Data+Science%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+</p>
 
-<h4>✨ Tech stacks currently using: <h4>
-  </hr>
+<h3>About me🧑:</h3>
+-I am a Computer Science undergraduate and a Tech enthusiast .<br/>
+<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
+
+- 🔭 I’m currently working on Fullstack Web Development & Android Development.
+- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
+- 🤔 New goal is to contribute more on Open source projects.
+- ⚡ Fun fact: I love Sports.
+- 🎢 Profile Visitors Count:  ![](https://visitor-badge.glitch.me/badge?page_id=Ratheshan03)
+<br/>
+
+<details>
+<summary>
+ ✨ Tech stacks currently using:
+ </hr>
+</summary>
 <a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a>
 <code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
 <code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></a></code>
@@ -12,10 +29,13 @@
 <code><a href="https://firebase.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></a></code>
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
 <code><a href="https://www.json.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></a></code>
+</details>
 <br>
 
-<h4>🌱 Looking forward to learn:<h4>
+<details>
+<summary>🌱 Looking forward to learn:<h4>
   </hr>
+</summary>
 <code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
 <code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
@@ -23,13 +43,14 @@
 <code><a href="https://azure.microsoft.com/en-us/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></a></code>
 <code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
+</details>
 <br>
 <br>
 
-<details open="">
+<details>
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <h4>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </h4>
+  𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 :
 </summary>
 <br>
 
@@ -43,7 +64,7 @@
 </p>
 </details>
 
-<h4>Connect With Me<h4>
+<h4> Connect with me🤝: <h4>
   </hr>
   <a href="https://www.linkedin.com/in/ratheshan-sathiyamoorthy-3aa2891b9/">
    <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
@@ -57,3 +78,5 @@
   <a href="https://www.instagram.com/ratheshan_03/">
     <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
+
+  <p align="center" > Created with 🖤 by  [Ratheshan03](https://github.com/Ratheshan03)</p>
