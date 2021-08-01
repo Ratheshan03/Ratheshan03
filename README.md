@@ -5,18 +5,18 @@
 
 <p align="center">
   <em>
-    This is ME, Ratheshan Sathiyamoorthy, a <b>Second year</b> undergraduate from <a href="https://www.iit.ac.lk/"> <b>Informatics Insitute of Technology</b>,Colombo Sri Lanka</a>. <br>
-    An aspiring <b>Full-Stack Software Developer</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b>Artificial Intelligence Enthusiast.</b> 
+    This is ME, Ratheshan Sathiyamoorthy, a <b>Second year</b>Computer Science undergraduate from <a href="https://www.iit.ac.lk/"> <b>Informatics Insitute of Technology</b>, Colombo Sri Lanka</a>. <br>
+    An aspiring <b>Full-Stack Software Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b>Artificial Intelligence Enthusiast.</b> 
   <br>
   <b><i>Work Hard and Trust the Process</i></b>
 </p>
 
-<h3>Little facts about me🧑:</h3>
+<h3>Little facts about me🧑 </h3>
 
-- 🧞 Computer Science undergraduate and a Tech enthusiast.
+- 🧞 I'm a Tech enthusiast since childhood.
 - 🔭 I’m currently working on Fullstack Web Development & Android Development.
 - 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
-- 🤔 New goal is to contribute more on Open source projects.
+- 💡 My new goal is to contribute more on Open source projects.
 - ⚡ Fun fact: I love Sports, especially cricket.
 
 <br/>
@@ -85,12 +85,15 @@
   <a href="mailto:lionratheshan@gmail.com">
     <img align="left" alt="Piyush Pravin | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
   </a>
+   <a href="https://github.com/Ratheshan03">
+    <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" />
+  </a>
   <a href="https://twitter.com/Ratheshan_03">
     <img align="left" alt="Piyush Pravin | Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>
   <a href="https://www.instagram.com/ratheshan_03/">
     <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
-
-  <p align="center" > Created with 🖤 by <a href="https://github.com/Ratheshan03">Ratheshan03</a></p>
+  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ratheshan03&label=Profile%20views&color=0e75b6&style=flat" alt="Ratheshan03" /> </p>
+   <p align="right" > Created with 🖤 by <a href="https://github.com/Ratheshan03">Ratheshan03</a></p>
