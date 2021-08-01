@@ -24,6 +24,7 @@
 <code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
 <br>
+<br>
 
 <details open="">
 <summary>
@@ -34,20 +35,17 @@
 
 <p align="center">
   <a href="https://github.com/Ratheshan03">
-    <img align="center"  height="230px" width="250px" src="https://github-readme-stats.vercel.app/api?username=Ratheshan03&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+    <img align="center"  height="175px"  src="https://github-readme-stats.vercel.app/api?username=Ratheshan03&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
   <a href="https://github.com/Ratheshan03">
-    <img align="center" height="195px" width="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratheshan03&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratheshan03&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
   </a>
 </p>
 </details>
-
 <br>
-<br>
-#
 
-### Connect With Me:
-<br> 
+<h2>Connect With Me<h2>
+  </hr>
   <a href="https://www.linkedin.com/in/ratheshan-sathiyamoorthy-3aa2891b9/">
    <img align="left" alt="Piyush Pravin | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
