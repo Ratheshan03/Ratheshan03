@@ -9,12 +9,13 @@
 - 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
 - 🤔 New goal is to contribute more on Open source projects.
 - ⚡ Fun fact: I love Sports.
-- 🎢 Profile Visitors Count:  <p align="center">![](https://visitor-badge.glitch.me/badge?page_id=Ratheshan03)</p>
+- 🎢 Profile Visitors Count:![](https://visitor-badge.glitch.me/badge?page_id=Ratheshan03)
 <br/>
 
-<details>
-<summary>
- ✨ Tech stacks currently using:
+---
+
+<details open="">
+<summary>✨ Tech stacks currently using:
  </hr>
 </summary>
 <a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a>
@@ -30,8 +31,10 @@
 </details>
 <br>
 
-<details>
-<summary>🌱 Looking forward to learn:<h4>
+---
+
+<details open="">
+<summary>🌱 Looking forward to learn:
   </hr>
 </summary>
 <code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
@@ -43,6 +46,8 @@
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
 </details>
 <br>
+
+---
 
 <details>
 <summary>
@@ -61,6 +66,8 @@
 </p>
 </details>
 
+---
+
 <h4> Connect with me🤝: <h4>
   </hr>
   <a href="https://www.linkedin.com/in/ratheshan-sathiyamoorthy-3aa2891b9/">
@@ -76,4 +83,4 @@
     <img align="left" alt="Piyush Pravin | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
 
-  <p align="center" > Created with 🖤 by  [Ratheshan03](https://github.com/Ratheshan03)</p>
+  <p align="center" > Created with 🖤 by <a href="https://github.com/Ratheshan03">Ratheshan03</a></p>
