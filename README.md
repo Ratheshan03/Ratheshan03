@@ -16,8 +16,8 @@
 ---
 
 <details open="">
-<summary>✨ Tech stacks currently using:
- <br>
+<summary>
+  ✨ Tech stacks currently using: <br>
 </summary>
 <a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a>
 <code><a href="https://www.oracle.com/java/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></a></code>
@@ -35,8 +35,8 @@
 ---
 
 <details open="">
-<summary>🌱 Looking forward to learn:
-  <brr>
+<summary>
+  🌱 Looking forward to learn:<br>
 </summary>
 <code><a href="https://flutter.dev/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
