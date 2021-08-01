@@ -1,11 +1,18 @@
-<h1 align="center">Hi , I'm Ratheshan Sathiyamoorthy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Ratheshan Sathiyamoorthy</h1>
 <p align="center">
-  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;Data+Science%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Ratheshan03/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Full+Stack+Software+Developer;Data+Science%20|%20AI%20|%20ML%20Enthusiast;Aspiring+Learner&center=true&width=500&height=50"></a>
 </p>
 
-<p align="right">
-<a> ![](https://visitor-badge.glitch.me/badge?page_id=Ratheshan03)</a>
+
+<p align="center">
+  <em>
+    This is ME, Akash chowrasia, a <b>final year</b> undergraduate from <a href="https://www.iit.ac.lk/"> <b>Informatics Insitute of Technology</b>,Colombo Sri Lanka</a>. <br>
+    An aspiring <b>Full-Stack Software Developer</b>&nbsp; <b>Competitive Programming</b>&nbsp; and <b>Artificial Intelligence Enthusiast.</b> 
+  <br>
+  <b><i>Work Hard and Trust the Process</i></b>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ratheshan03&label=Profile%20views&color=0e75b6&style=flat" alt="Ratheshan03" /> </p>
 
 <h3>About me🧑:</h3>
 
@@ -14,7 +21,6 @@
 - 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
 - 🤔 New goal is to contribute more on Open source projects.
 - ⚡ Fun fact: I love Sports.
-- 🎢 Profile Visitors Count:
 
 <br/>
 
@@ -38,8 +44,6 @@
 </details>
 <br>
 
----
-
 <details open="">
 <summary>
   🌱 Looking forward to learn:<br>
@@ -60,7 +64,7 @@
 <details>
 <summary>
   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 :
+ GitH𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 :
 </summary>
 <br>
 
@@ -92,3 +96,5 @@
   </a>
 
   <p align="center" > Created with 🖤 by <a href="https://github.com/Ratheshan03">Ratheshan03</a></p>
+  
+  
