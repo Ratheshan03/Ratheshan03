@@ -4,14 +4,12 @@
 </p>
 
 <h3>About me🧑:</h3>
--I am a Computer Science undergraduate and a Tech enthusiast .<br/>
-<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
-
+- 🧞 Computer Science undergraduate and a Tech enthusiast.
 - 🔭 I’m currently working on Fullstack Web Development & Android Development.
 - 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
 - 🤔 New goal is to contribute more on Open source projects.
 - ⚡ Fun fact: I love Sports.
-- 🎢 Profile Visitors Count:  ![](https://visitor-badge.glitch.me/badge?page_id=Ratheshan03)
+- 🎢 Profile Visitors Count:  <p align="center">![](https://visitor-badge.glitch.me/badge?page_id=Ratheshan03)</p>
 <br/>
 
 <details>
@@ -44,7 +42,6 @@
 <code><a href="https://pytorch.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg"></a></code>
 <code><a href="https://aws.amazon.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></a></code>
 </details>
-<br>
 <br>
 
 <details>
