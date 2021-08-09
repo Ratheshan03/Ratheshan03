@@ -11,7 +11,7 @@
   <b><i>"---Work Hard and Trust the Process---"</i></b>
 </p>
 
-<h3>Little facts about me🧑 </h3>
+<h3>Little facts about me 🧑</h3>
 
 - 🧞 I'm a Tech enthusiast since childhood.
 - 🔭 I’m currently working on Fullstack Web Development & Android Development.
