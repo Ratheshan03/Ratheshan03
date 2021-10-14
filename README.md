@@ -8,7 +8,7 @@
     This is ME, Ratheshan Sathiyamoorthy, a <b>Second year</b> Computer Science undergraduate from <a href="https://www.iit.ac.lk/"> <b>Informatics Insitute of Technology</b>, Sri Lanka</a>.
     An aspiring <b>Full-Stack Software Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
   <br>
-  <b><i>"---Work Hard and Trust the Process---"</i></b>
+  <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
 
 <h3>Little facts about me 🧑</h3>
