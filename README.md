@@ -16,7 +16,7 @@
 - 🧞 I'm a Tech enthusiast since childhood.
 - 🔭 I’m currently working on Fullstack Web Development & Android Development.
 - 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
-- 💡  My new goal is to contribute more on Open source projects.
+- 💡 My new goal is to contribute more on Open source projects.
 - ⚡ Fun fact: I love Sports, especially cricket.
 <br>
 
@@ -24,7 +24,7 @@
 
 <details>
 <summary>
-  ✨ Tech stacks currently using:
+  ✨ Tech stack currently using:
 </summary>
    <br>
 <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
