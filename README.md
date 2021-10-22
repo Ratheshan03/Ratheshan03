@@ -17,7 +17,7 @@
 - 🔭 I’m currently working on Fullstack Web Development & Android Development.
 - 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
 - 💡 My new goal is to contribute more on Open Source Projects.
-- ⚡ Fun fact: I love Sports, especially cricket.
+- ⚡ Fun fact: I love Sports, especially Cricket.
 <br>
 
 ---
