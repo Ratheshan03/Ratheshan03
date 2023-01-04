@@ -13,10 +13,10 @@
 
 <h3>Little facts about me 🧑</h3>
 
-- 🧞 I'm a Tech enthusiast since childhood.
-- 🔭 I’m currently working on Fullstack Web Development & Android Development.
+- 🧞 I'm a Tech Enthusiast since childhood.
+- 🔭 I’m currently working on Fullstack Web Development, Android Development & DevOps Engineering.
 - 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
-- 💡 My new goal is to contribute more on Open Source Projects.
+- 💡 Contributing to Open Source Projects is always been a goal to me.
 - ⚡ Fun fact: I love Sports, especially Cricket.
 <br>
 
