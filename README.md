@@ -5,7 +5,7 @@
 
 <p align="center">
   <em>
-    This is me <b>Ratheshan Sathiyamoorthy</b>, a third year <b>Computer Science</b> undergraduate from <a href="https://www.iit.ac.lk/"> <b>Informatics Insitute of Technology</b>, Sri Lanka</a>.
+    This is me <b>Ratheshan Sathiyamoorthy</b>, a final year <b>Computer Science</b> undergraduate from <a href="https://www.iit.ac.lk/"> <b>Informatics Insitute of Technology</b>, Sri Lanka</a>.
     An aspiring <b>Full-Stack Software Developer,</b>&nbsp; <b>Competitive Programmer</b>&nbsp; and <b> Artificial Intelligence Enthusiast.</b> 
   <br>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
