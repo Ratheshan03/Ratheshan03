@@ -5,9 +5,9 @@
 
 <p align="center">
   <em>
-    This is me <b>Ratheshan Sathiyamoorthy</b>, a <b>Computer Science</b> graduate from, Sri Lanka</a>.
-    An aspiring <b>Full-Stack Software Developer,</b>&nbsp; <b> Researcher </b>&nbsp; and <b> Cloud Engineering and Data Science Enthusiast.</b> 
-  <br>
+    This is me <b>Ratheshan Sathiyamoorthy</b>, a <b>Computer Science</b> graduate from, Sri Lanka</a>.<br>
+    An aspiring <b>Full-Stack Software Developer,</b>&nbsp;<b>Researcher</b>&nbsp;and <b>Cloud Engineering and Data Science Enthusiast.</b> 
+  <br><br>
   <b><i>"Carpediem"</i></b>
 </p>
 
