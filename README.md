@@ -8,14 +8,14 @@
     This is me <b>Ratheshan Sathiyamoorthy</b>, a <b>Computer Science</b> graduate from, Sri Lanka</a>.<br>
     An aspiring <b>Full-Stack Software Developer,</b>&nbsp;<b>Researcher</b>&nbsp;and <b>Cloud Engineering and Data Science Enthusiast.</b> 
   <br><br>
-  <b><i>"Carpediem"</i></b>
+  <b><i>" Carpediem "</i></b>
 </p>
 
 <h3>Little facts about me 🧑</h3>
 
 - 🧞 Tech Enthusiast since childhood.
 - 🔭 I’m currently working on Fullstack Development and Data Science Practices.
-- 👯 I’m looking to collaborate with Fullstack Web development projects and Data Science based projects.
+- 👯 I’m looking to collaborate with Fullstack Web development projects and Data Science projects.
 - 💡 Always up to contribute on Open Source Projects.
 - ⚡ Fun fact: I love sports, especially Cricket.
 <br>
