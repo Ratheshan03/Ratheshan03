@@ -137,18 +137,25 @@
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<b>GitHub Analytics</b>
 </summary>
 <br>
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ratheshan03&show_icons=true&hide_border=true&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratheshan03&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=8&layout=compact&hide_border=true"/>
+  <a href="https://github.com/Ratheshan03">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=Ratheshan03&show_icons=true&hide_border=true&theme=dark&title_color=94b4a4&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000&count_private=true&include_all_commits=true&cache_seconds=1800"/>
+  </a>
+  <a href="https://github.com/Ratheshan03">
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ratheshan03&text_color=FFFFFF&bg_color=000000&theme=dark&title_color=94b4a4&langs_count=8&layout=compact&hide_border=true&cache_seconds=1800"/>
+  </a>
 </div>
-
+<br>
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ratheshan03&theme=black-ice&hide_border=true&stroke=0000&background=000000&ring=94b4a4&fire=94b4a4&currStreakLabel=94b4a4" alt="Ratheshan03's contribution streak" />
+  <a href="https://github.com/Ratheshan03">
+    <img width="70%" src="https://github-readme-stats-fast.vercel.app/api/streak/?username=Ratheshan03&show_icons=true&theme=dark&hide_border=true&background=000000&ring=94b4a4&fire=94b4a4&currStreakLabel=94b4a4"/>
+  </a>
 </div>
-
+<br>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ratheshan03&theme=darkhub&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6&row=1" alt="Ratheshan03's trophies" />
+  <a href="https://github.com/Ratheshan03">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ratheshan03&theme=darkhub&no-frame=true"/>
+  </a>
 </div>
 </details>
 
