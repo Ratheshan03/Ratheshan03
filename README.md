@@ -7,10 +7,10 @@
   <tr>
     <td style="vertical-align: top; padding-right: 20px; max-width: 500px;">
       <p align="justify">
-        <b>Hello there!</b> I'm <b>Ratheshan Sathiyamoorthy</b>, a passionate Computer Science graduate from Sri Lanka with a current focus on postgraduate studies. 
-        As an ambitious Software Engineer (AI/ML), I'm dedicated to creating robust and scalable solutions that solve 
+        <b>Hello there!</b> I'm <b>Ratheshan Sathiyamoorthy</b>, a passionate Computer Science graduate from Sri Lanka currently pursuing postgraduate studies. 
+        As an ambitious Software Engineer specializing in AI/ML, I'm dedicated to creating robust and scalable solutions that solve 
         real-world problems. My technical journey spans across Data Engineering, Full-stack Development, and Cloud Computing, with a 
-        particular enthusiasm for innovative technologies and best practices.
+        particular enthusiasm for innovative technologies and engineering best practices.
       </p>
     </td>
     <td style="vertical-align: top;">
