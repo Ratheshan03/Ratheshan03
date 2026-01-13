@@ -7,9 +7,9 @@
   <tr>
     <td style="vertical-align: top; padding-right: 20px; max-width: 500px;">
       <p align="justify">
-        <b>Hello there!</b> I'm <b>Ratheshan Sathiyamoorthy</b>, a passionate Computer Science graduate from Sri Lanka. 
-        As an ambitious Full-Stack Software Developer, I'm dedicated to creating robust and scalable solutions that solve 
-        real-world problems. My technical journey spans across Full-stack Development, Cloud Computing, and Data Science, with a 
+        <b>Hello there!</b> I'm <b>Ratheshan Sathiyamoorthy</b>, a passionate Computer Science graduate from Sri Lanka with a current focus on postgraduate studies. 
+        As an ambitious Software Engineer (AI/ML), I'm dedicated to creating robust and scalable solutions that solve 
+        real-world problems. My technical journey spans across Data Engineering, Full-stack Development, and Cloud Computing, with a 
         particular enthusiasm for innovative technologies and best practices.
       </p>
     </td>
@@ -27,8 +27,8 @@
 <h3>About Me 🧑</h3>
 
 - 🧞 Tech Enthusiast since childhood
-- 🔭 Currently focused on Fullstack Development and Data Science
-- 👯 Looking to collaborate on Web Development and Data Science projects
+- 🔭 Currently focused on AI/ML Development and Data Engineering
+- 👯 Looking to collaborate on AI/ML and Fullstack Dev projects
 - 💡 Always eager to contribute to Open Source
 - ⚡ Fun fact: I love sports, especially Cricket
 
